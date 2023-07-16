@@ -14,7 +14,19 @@
                  alt="Telegram Badge"/>
         </a>
     </div>
+    <img src="https://komarev.com/ghpvc/?username=Alex-V92&style=flat-square&color=blue" alt=""/>
+    <h1>
+      hey there
+          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
 </div>
+
+
+
+<div align="center">
+  <img src="https://media.tenor.com/wF5RiCnfj34AAAAC/work-computer.gif" width="600" height="300"/>
+</div>
+
 
 
 
