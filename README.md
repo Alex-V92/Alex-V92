@@ -27,6 +27,8 @@
   <img src="https://media.tenor.com/wF5RiCnfj34AAAAC/work-computer.gif" width="600" height="300"/>
 </div>
 
-
-
-
+### :man_technologist: About Me :
+I am a Junior DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: i’m working as a system administrator
+- :man_student: In my free time I study DevOps technologies
+- :mailbox:How to reach me: [![Tele Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Alex_Vl92)
