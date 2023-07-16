@@ -32,3 +32,20 @@ I am a Junior DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :telescope: i’m working as a system administrator
 - :man_student: In my free time I study DevOps technologies
 - :mailbox:How to reach me: [![Tele Badge](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Alex_Vl92)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="python" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="ansible" **alt="ansible" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" **alt="redis" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="conf" **alt="conf" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" title="zabbix" **alt="zabbix" width="60" height="60"/>
+</div>
