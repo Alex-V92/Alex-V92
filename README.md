@@ -37,7 +37,8 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="python" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" **alt="go" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="ansible" **alt="ansible" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="60" height="60"/>
